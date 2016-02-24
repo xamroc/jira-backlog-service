@@ -2,5 +2,12 @@
   "db": {
     "name": "db",
     "connector": "memory"
+  },
+  "storydb": {
+    "host": "localhost",
+    "port": 5432,
+    "database": "storydb",
+    "name": "storydb",
+    "connector": "postgresql"
   }
 }

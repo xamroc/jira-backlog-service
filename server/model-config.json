@@ -31,5 +31,9 @@
   "Role": {
     "dataSource": "db",
     "public": false
+  },
+  "Story": {
+    "dataSource": "storydb",
+    "public": true
   }
 }
